@@ -1,0 +1,17 @@
+a. wykonano sprawdzenie przy pomocy dodatku Lighthouse do przeglądarki
+Google Chrome, plik wynikowy: piniovsky2.beep.pl-20201129T142422.html
+b. sprawdzenie wykonano w ramach punktu a)
+c. w zakresie logowania użytkownika aplikacja nie wykazuje
+podatności na włamania typu SQL injection wymienione na stronie
+https://www.w3schools.com/sql/sql_injection.asp
+d. nie wykonano
+e. sprawdzenie wykonano w ramach punktu a)
+f. wykonano mapę portalu (plik sitemap.xml), znajdują się w niej ścieżki dostępne
+tylko przed zalogowaniem użytkownika
+g. Używam HTTrack Website Copier
+ściągamy stronę, w wyniku tego dostajemy tylko 3 pliki .html
+serwer nie pozwala na ściągnięcie plików .php
+pliki klientów są dostępne z internetu - jak ktoś zna folder, ich login i nazwę
+pliku to i tak je pobierze, normalnie pliki przechowuje się poza strukturą WWW
+i dodatkowo ukrywa ich oryginalne nazwy, rozszerzenia, czasem nawet szyfruje
+h. wykonane na app.diagrams.net plik: baza.png
